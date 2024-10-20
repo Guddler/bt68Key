@@ -1,0 +1,9 @@
+BasedOnStyle: Google
+UseTab: AlignWithSpaces
+IndentWidth: 4
+TabWidth: 4
+BreakBeforeBraces: Attach
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: true
+AccessModifierOffset: -4
+ColumnLimit: 100
